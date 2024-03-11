@@ -1,0 +1,10 @@
+@import url('index.css');
+
+.container{
+  background-color: var(--blue);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
